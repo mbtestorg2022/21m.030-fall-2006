@@ -19,12 +19,168 @@ Ruckert, George. _Music in North India._ New York, NY: Oxford University Press, 
 
 Wade, Bonnie. _Thinking Musically._ New York, NY: Oxford University Press, 2003. ISBN: 9780195136647.
 
-| WEEK # | TOPICS | READINGS AND LISTENING |
-| --- | --- | --- |
-| 1 | Unit 1 - Introduction |  |
-| 2-4 | Unit 2 - North India | {{< h 3 >}}Week 2{{< /h >}} {{< br >}}{{< br >}} Wade. Chapter 1. {{< br >}}{{< br >}} Ruckert. Chapters 1, 2, and 3. {{< br >}}{{< br >}} {{< h 3 >}}Week 3{{< /h >}} {{< br >}}{{< br >}} Wade. Chapters 3, 4, and 5. {{< br >}}{{< br >}} Ruckert. Chapters 4 and 5. {{< br >}}{{< br >}} {{< h 3 >}}Week 4{{< /h >}} {{< br >}}{{< br >}} Wade. Chapters 6 and 7. {{< br >}}{{< br >}} Ruckert. Chapters 6 and 7. {{< br >}}{{< br >}}  |
-| 5-7 | Unit 3 - Africa | {{< h 3 >}}Week 5{{< /h >}} {{< br >}}{{< br >}} Stone. Chapters 1-2. {{< br >}}{{< br >}} {{< h 3 >}}Week 6{{< /h >}} {{< br >}}{{< br >}} Stone. Chapters 3-4. {{< br >}}{{< br >}} {{< h 3 >}}Week 7{{< /h >}} {{< br >}}{{< br >}} Stone. Chapterts 5-6. {{< br >}}{{< br >}} Chase, Gilbert. "The Ethiopian Business." In _America's Music_. Champaign, IL: University of Illinois Press, 1992, chapter 13. ISBN: 9780252062759. {{< br >}}{{< br >}} Epstein, Dena. "Prologue: The American Heritage and Middle Passage." In _Sinful Tunes and Spirituals_. Champaign, IL: University of Illinois Press, 2003. ISBN: 9780252071508. {{< br >}}{{< br >}}  |
-| 8 |  {{< br >}}{{< br >}} Midterm Exam {{< br >}}{{< br >}}  |
-| 9-11 | Unit 4 - Bali | {{< h 3 >}}Week 9{{< /h >}} {{< br >}}{{< br >}} Gold. Chapters 1-3. {{< br >}}{{< br >}} {{< h 3 >}}Week 10{{< /h >}} {{< br >}}{{< br >}} Gold. Chapters 4 and 5. {{< br >}}{{< br >}} {{< h 3 >}}Week 11{{< /h >}} {{< br >}}{{< br >}} Gold. Chapters 6 and 7. {{< br >}}{{< br >}}  |
-| 12-13 | Unit 5 - Mid East | {{< h 3 >}}Week 12{{< /h >}} {{< br >}}{{< br >}} Marcus. Chapters 1-3. {{< br >}}{{< br >}} {{< h 3 >}}Week 13{{< /h >}} {{< br >}}{{< br >}} Marcus. Chapters 4-6. {{< br >}}{{< br >}}  |
-| 14 | Final Exam |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS AND LISTENING
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Unit 1 - Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2-4
+{{< tdclose >}}
+{{< tdopen >}}
+Unit 2 - North India
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Week 2
+
+Wade. Chapter 1.
+
+Ruckert. Chapters 1, 2, and 3.
+
+### Week 3
+
+Wade. Chapters 3, 4, and 5.
+
+Ruckert. Chapters 4 and 5.
+
+### Week 4
+
+Wade. Chapters 6 and 7.
+
+Ruckert. Chapters 6 and 7.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5-7
+{{< tdclose >}}
+{{< tdopen >}}
+Unit 3 - Africa
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Week 5
+
+Stone. Chapters 1-2.
+
+### Week 6
+
+Stone. Chapters 3-4.
+
+### Week 7
+
+Stone. Chapterts 5-6.
+
+Chase, Gilbert. "The Ethiopian Business." In _America's Music_. Champaign, IL: University of Illinois Press, 1992, chapter 13. ISBN: 9780252062759.
+
+Epstein, Dena. "Prologue: The American Heritage and Middle Passage." In _Sinful Tunes and Spirituals_. Champaign, IL: University of Illinois Press, 2003. ISBN: 9780252071508.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Midterm Exam
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9-11
+{{< tdclose >}}
+{{< tdopen >}}
+Unit 4 - Bali
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Week 9
+
+Gold. Chapters 1-3.
+
+### Week 10
+
+Gold. Chapters 4 and 5.
+
+### Week 11
+
+Gold. Chapters 6 and 7.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12-13
+{{< tdclose >}}
+{{< tdopen >}}
+Unit 5 - Mid East
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Week 12
+
+Marcus. Chapters 1-3.
+
+### Week 13
+
+Marcus. Chapters 4-6.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

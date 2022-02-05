@@ -57,12 +57,117 @@ The essays and concert reports will be weighted roughly evenly with the exams, a
 Course Calendar
 ---------------
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Unit 1 - Introduction |  |
-| 2-4 | Unit 2 - North India | Format paper due beginning of week #2 |
-| 5-7 | Unit 3 - Africa |  {{< br >}}{{< br >}} Concert reports 1 and 2 due beginning of week #7 {{< br >}}{{< br >}} Essay 1 due in week #7 {{< br >}}{{< br >}}  |
-| 8 | Midterm Exam |  |
-| 9-11 | Unit 4 - Bali |  {{< br >}}{{< br >}} Revision of essay 1 due in week #9 {{< br >}}{{< br >}} Concert reports 3 and 4 due end of week #11 {{< br >}}{{< br >}}  |
-| 12-13 | Unit 5 - Mid East | Project essay 2 due end of week #13 |
-| 14 | Final Exam |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Unit 1 - Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2-4
+{{< tdclose >}}
+{{< tdopen >}}
+Unit 2 - North India
+{{< tdclose >}}
+{{< tdopen >}}
+Format paper due beginning of week #2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5-7
+{{< tdclose >}}
+{{< tdopen >}}
+Unit 3 - Africa
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Concert reports 1 and 2 due beginning of week #7
+
+Essay 1 due in week #7
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm Exam
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9-11
+{{< tdclose >}}
+{{< tdopen >}}
+Unit 4 - Bali
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Revision of essay 1 due in week #9
+
+Concert reports 3 and 4 due end of week #11
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12-13
+{{< tdclose >}}
+{{< tdopen >}}
+Unit 5 - Mid East
+{{< tdclose >}}
+{{< tdopen >}}
+Project essay 2 due end of week #13
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
