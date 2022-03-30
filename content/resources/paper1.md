@@ -9,6 +9,7 @@ description: A two-part research project. The first essay asks you to define a c
   and books will not be sufficient.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21m-030-introduction-to-world-music-fall-2006/236e4179aa76b0f6764a54c209dabc72_paper1.pdf
 file_type: application/pdf
+parent_uid: 6fc03797-ed74-2507-ba37-fbf36cad196a
 resourcetype: Document
 title: paper1.pdf
 uid: 236e4179-aa76-b0f6-764a-54c209dabc72
